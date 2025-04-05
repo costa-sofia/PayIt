@@ -38,4 +38,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-- Email: seu-email@exemplo.com
+- Email: pedro11sales14@gmail.com
